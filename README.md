@@ -1,6 +1,6 @@
 # 1955201301_UTS_JAVA
 
-NAMA : MUHAMMAD AINUL YAQIN
+NAMA : MUHAMMAD AINUL YAQIN<br>
 PRODI: ILMU KOMPUTER (RONAS)
 
 Disini saya membuat pengkodean tentang pelayanan "Pemesanan tiket bioskop" . Yang bernama bioskop "YAQIN". Didalamnya tersedia beberapa Judul Film beserta harganya juga sudah tercantum,
